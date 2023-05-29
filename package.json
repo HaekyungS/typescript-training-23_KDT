@@ -1,0 +1,23 @@
+{
+  "name": "typescript-training-23_kdt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "typescript": "^5.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaekyungS/typescript-training-23_KDT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaekyungS/typescript-training-23_KDT/issues"
+  },
+  "homepage": "https://github.com/HaekyungS/typescript-training-23_KDT#readme",
+  "description": ""
+}
